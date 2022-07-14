@@ -1,0 +1,22 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  /* height: calc(100vh - 48px); */
+  /* height: 100%; */
+}
+
+.fruit-sidebar-item {
+  font-weight: 500;
+}
+
+.content {
+  color: rgba(0,0,0,.9);
+  max-width: 800px;
+}
+
+.deliciosnessTR {
+  cursor: pointer;
+}
